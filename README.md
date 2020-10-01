@@ -1,4 +1,6 @@
-Instagram-like image uploader app lets create user, upload and comment posts. Preview here: https://instagram-clone-e6abc.web.app
+Instagram-like image uploader app lets create user, upload and comment posts. 
+
+Preview here: https://instagram-clone-e6abc.web.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
